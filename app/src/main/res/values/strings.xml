@@ -15,7 +15,7 @@
     <string name="backup_import_text_hint">Paste backup here</string>
     <string name="backup_import_success">Backup imported</string>
     <string name="backup_import_error">Import failed: invalid or corrupted backup</string>
-    <string name="app_name">SSH Proxy</string>
+    <string name="app_name">Guevarah VPN Tunnel</string>
 
     <!-- Home Screen -->
     <string name="vpn_permission_denied">VPN permission denied</string>
